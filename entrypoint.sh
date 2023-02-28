@@ -5,11 +5,11 @@ DIR_CONFIG="/etc/v2ray"
 DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
-uuidone=886e16b8-1bf5-4c2f-9bc1-4b218924c91d
-uuidtwo=1cdbd11d-4b29-43fd-859a-efb30bc79ffd
-uuidthree=56fb2f4f-3794-4894-b84a-9888edc1d01c
-uuidfour=fb37f243-f6fb-4112-b549-33ddecd9ec2c
-uuidfive=cf5e4ca1-fba8-4fb2-b038-54151f400cc1
+uuidone=43523cbf-6777-4843-8a96-f4978ccf7bdf
+uuidtwo=27f7d971-50b0-400f-a6ee-569d636815d8
+uuidthree=93f91e12-6db9-408a-813d-c83aa73c3397
+uuidfour=c677418d-a3e3-4449-bc2a-6b4e6b73515b
+uuidfive=3a243855-3ec9-496e-9151-2c23714a7536
 mypath=/bugjggvf-test
 myport=8080
 
